@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ConsoleApp1;
-
+namespace CadastroProduto;
 
 class Menu
 {

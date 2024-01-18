@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel.Design;
 
-namespace ConsoleApp1;
+namespace CadastroProduto;
 
 class MainClass
 {
