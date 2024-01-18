@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleApp1;
 
-
+//Menu principal
 class Menu
 {
     public static void Show()
