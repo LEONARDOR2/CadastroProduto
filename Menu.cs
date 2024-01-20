@@ -14,7 +14,7 @@ class Menu
         Console.WriteLine("");
         Console.WriteLine("1 - Cadastrar produtos");
         Console.WriteLine("2 - Lista de produtos");
-        Console.WriteLine("3 - Comprar");
+       // Console.WriteLine("3 - Comprar");
         Console.WriteLine("0- Sair");
 
         Console.Write("Opção desejada: ");

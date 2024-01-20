@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroProduto", "CadastroProduto.csproj", "{0F92B4D1-25D7-4F9D-AD7D-3EF0EF58EF6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CadastroProduto", "CadastroProduto.csproj", "{0F92B4D1-25D7-4F9D-AD7D-3EF0EF58EF6A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{46C67F35-A701-4256-A3C3-A3A5801E7825}"
 	ProjectSection(SolutionItems) = preProject
